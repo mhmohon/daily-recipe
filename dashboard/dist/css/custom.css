@@ -1,0 +1,78 @@
+/* header section */
+.skin-blue .main-header .logo {
+	background: #F04709;
+}
+.skin-blue .main-header .logo:hover {
+	background: #D84008;
+}
+.skin-blue .main-header .navbar {
+	background: #F04709;
+}
+.skin-blue .main-header li.user-header {
+	background-color: #D94008;
+}
+.navbar-nav > .user-menu > .dropdown-menu > .user-footer {
+	background-color: #085988;
+}
+.sidebar-toggle:hover{
+	background: #D84008;
+}
+/* Sidebar section */
+.sidebar-menu .header a{
+	color: #d84008;
+	border-left: 0px;
+	padding: 2px 2px 2px 30px;
+	font-size: 16px;
+}
+
+.sidebar-menu .header a:hover{
+	color: #d84008;
+	border-left: 0px;
+}
+.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a {
+	color: #d84008;
+}
+.skin-blue .treeview-menu > li > a:hover {
+	color: #d84008;
+}
+/* Main content section */
+.content-wrapper {
+	background: url(../img/pattern.jpg);
+}
+.box_center{
+	margin: 30px auto;
+    width: 65%;
+}
+.skin-blue .content-header {
+    background: #fff;
+    padding: 10px;
+}
+.page_info{
+	background:#fff;
+}
+.recipeImage {
+	display: flex;
+}
+.recipeImage .images{
+	width: 300px;  /* Or whatever */
+    height: 150px; /* Or whatever */
+    margin: auto;  /* Magic! */
+}
+/* pagination */
+.paging_simple_numbers a{
+	padding: 10px;
+    color: #1E282C;
+    background: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: LobsterTwo-Regular;
+}
+/* alert box */
+.alert {
+	margin: 15px;
+}
+/* Form */
+.form-horizontal .form-group {
+	margin-right: 0px;
+    margin-left: 0px; 
+}

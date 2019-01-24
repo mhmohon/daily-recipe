@@ -1,0 +1,107 @@
+/* For setupdb page */
+.sign-up-form h3{
+	padding: 1em 0 0;
+}
+/* For every page */
+.overflow{
+	overflow: hidden;
+}
+.space{
+	margin: 3% 0;
+}
+.margin_bottom {
+	margin-bottom: 10px;
+}
+.hovereffect img{
+	width: 100%;
+    height: 250px;
+}
+/* pagination */
+.pagination{
+	
+}
+.pagination a{
+	padding: 16px;
+    margin-right: 8px;
+    color: #fff;
+    background: #c34c21;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: LobsterTwo-Regular;
+}
+
+/* Single Article page */
+.single-page-artical{
+	overflow:hidden;
+}
+.recipe_video iframe{
+	margin: 0 auto;
+	display:block;
+}
+.recipeImage, .recipeDesc, .recipe_video, .ingredient, .directions {
+	margin-bottom: 1%;
+}
+.list_desc{
+	display: block;
+	list-style-type: upper-roman;
+	margin-left: 20px;
+    margin-right: 0;
+	padding: 0px;
+}
+.list_desc li{
+	padding: 5px;
+}
+.postFirst {
+	
+}
+
+.artical-content img {
+    height: 300px;
+}
+.artical-links {
+	margin: 10px 0px;
+}
+.recipeDesc {
+	min-height:300px;
+}
+.header-bottom {
+	
+}
+/* ingredient and description*/
+.description_h2 {
+	color: #c34c21;
+    font-family: LobsterTwo-Regular;
+    font-size: 2em;
+    margin: 0;
+}
+.ingredient_h2, .directions_h2{
+	color: #c34c21;
+    font-family: LobsterTwo-Regular;
+    font-size: 2em;
+    margin: 0;
+    padding: 15px 0px;
+    text-transform: capitalize;
+}
+.ingredient__header__toggles {
+	margin-top: 3%;
+	font-family: LobsterTwo-Regular;
+	color: #c34c21;
+    font-size: 20px; 
+}
+.similar_post {
+	width: 33%;
+    float: left;
+}
+/* Registration page */
+
+.msg h3{
+	padding: 1em 0 0;
+}
+.error{
+	color: red;
+}
+/* Contact page */
+.contact-left{
+	float: none;
+    width: 100%;
+}
